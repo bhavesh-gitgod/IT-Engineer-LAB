@@ -1,3 +1,7 @@
 # IT-Engineer-LAB
-Welcome to the grand Forum of Engineer IT Lab
-No noobs allowed here.
+Student Name: Bhavesh Baviskar
+Roll no:
+Branch: ECE FY
+Experiment Title: Creating GitHub Account and Adding a repository.
+Project Description: Adding 2 meaningful commits and adding 4 basic web files
+Technological Tools used: Browser, GitHub, Google
